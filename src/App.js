@@ -1,12 +1,11 @@
 import React, { Component } from 'react';
 import './App.css';
-import SocialCard from './SocialCard';
 
 class App extends Component {
   render() {
     return (
       <div>
-        <SocialCard />
+      	<h1>Hello</h1>
       </div>
     );
   }
